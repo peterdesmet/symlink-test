@@ -1,7 +1,7 @@
 - text: Home
   href: /
-- text: Another page
-  href: /another/
+- text: Metadata
+  href: /metadata/
 - text: GitHub
   href: https://github.com/peterdesmet/symlink-test/
   new_window: true
