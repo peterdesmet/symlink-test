@@ -1,5 +1,1 @@
-- text: Home
-  href: /
-- text: GitHub
-  href: https://github.com/peterdesmet/symlink-test/
-  new_window: true
+../navigation.yml
